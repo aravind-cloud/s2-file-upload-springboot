@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.nadunc</groupId>
-    <artifactId>s3_image_uploader</artifactId>
+    <groupId>com.poc.aws</groupId>
+    <artifactId>s3_file_uploader</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>s3_image_uploader</name>
-    <description>Demo project for Spring Boot</description>
+    <name>s3_file_uploader</name>
+    <description>AWS S3 File Upload Demo</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
